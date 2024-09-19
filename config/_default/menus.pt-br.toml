@@ -1,0 +1,17 @@
+[[main]]
+  name = "Quem Somos"
+  pageRef = "quem-somos"
+  identifier = "Tyu1knwj2m"
+  weight = 10
+
+[[main]]
+  name = "Participe"
+  pageRef = "participe"
+  identifier = "oZCe37Fxrw"
+  weight = 20
+
+[[main]]
+  name = "Blog"
+  pageRef = "posts"
+  identifier = "ziiAY4BnO5"
+  weight = 30
