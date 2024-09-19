@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Potilivre</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Potilivre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>Copyleft - Alguns direitos reservados, exceto quando especificado em contrário e nos conteúdos replicados de outras fontes.</copyright>
+    <lastBuildDate>Thu, 19 Sep 2024 16:54:30 -0300</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Participe</title>
+      <link>http://localhost:1313/participe/</link>
+      <pubDate>Thu, 19 Sep 2024 16:54:30 -0300</pubDate>
+      
+      <guid>http://localhost:1313/participe/</guid>
+      <description>Como participar da PotiLivre # TELEGRAM # Temos um grupo no Telegram, para participar vá em https://telegram.</description>
+      
+    </item>
+    
+    <item>
+      <title>Quem Somos</title>
+      <link>http://localhost:1313/quem-somos/</link>
+      <pubDate>Thu, 19 Sep 2024 16:54:21 -0300</pubDate>
+      
+      <guid>http://localhost:1313/quem-somos/</guid>
+      <description>PotiLivrePotiLivre é a Comunidade Potiguar de Software Livre, fundada em 2013.</description>
+      
+    </item>
+    
+    <item>
+      <title>Encontro Potiday Dados 2023</title>
+      <link>http://localhost:1313/posts/encontro-potiday-dados-2023/</link>
+      <pubDate>Thu, 19 Jan 2023 17:19:27 -0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/encontro-potiday-dados-2023/</guid>
+      <description>PotiDay, o encontro da Comunidade Potiguar de Software Livre (PotiLivre).</description>
+      
+    </item>
+    
+  </channel>
+</rss>

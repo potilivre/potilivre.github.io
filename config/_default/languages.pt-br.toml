@@ -1,0 +1,24 @@
+languageCode = "pt-br"
+languageName = "Portugues"
+weight = 1
+title = "Potilivre"
+
+[params]
+  displayName = "PT-BR"
+  isoCode = "pt-br"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "Comunidade Potiguar de Software Livre"
+  logo = "img/potileft-100-black.png"
+  secondaryLogo = "img/potileft-100.png"
+  copyright = "Copyleft - Alguns direitos reservados, exceto quando especificado em contrário e nos conteúdos replicados de outras fontes."
+
+[params.author]
+  name = "Potilivre"
+  image = "img/potileft-square-white.png"
+  headline = "Comunidade Potiguar de Software Livre."
+  bio = "Comunidade Potiguar de Software Livre."
+  links = [ 
+    { instagram = "https://www.instagram.com/potilivre_" },
+    { telegram = "https://telegram.me/potilivre" }
+  ]

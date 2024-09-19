@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Potilivre</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Potilivre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>Copyleft - Alguns direitos reservados, exceto quando especificado em contrário e nos conteúdos replicados de outras fontes.</copyright>
+    <lastBuildDate>Thu, 19 Jan 2023 17:19:27 -0300</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Encontro Potiday Dados 2023</title>
+      <link>http://localhost:1313/posts/encontro-potiday-dados-2023/</link>
+      <pubDate>Thu, 19 Jan 2023 17:19:27 -0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/encontro-potiday-dados-2023/</guid>
+      <description>PotiDay, o encontro da Comunidade Potiguar de Software Livre (PotiLivre).</description>
+      
+    </item>
+    
+  </channel>
+</rss>
