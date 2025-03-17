@@ -1,106 +1,75 @@
-colorScheme = "potilivre"
-defaultAppearance = "light"
-autoSwitchAppearance = true
-enableSearch = true
-enableCodeCopy = false
-replyByEmail = false
-disableImageOptimization = false
-disableTextInHeader = true
-smartTOC = true
-smartTOCHideUnfocusedChildren = true
-
-[header]
-  layout = "fixed-fill-blur"
+# Pages placed under these sections will be shown on homepage and archive page.
+mainSections = ["post"]
+# Output page's full content in RSS.
+rssFullContent = true
+favicon = "/potilivre-logo-branco.svg"
 
 [footer]
-  showMenu = true
-  showCopyright = true
-  showThemeAttribution = true
-  showAppearanceSwitcher = true
-  showScrollToTop = true
+since = 2020
+customText = ""
 
-[homepage]
-  layout = "hero"
-  homepageImage = "img/poticon-2018.jpg"
-  showRecent = false
-  showRecentItems = 5
-  showMoreLink = true
-  showMoreLinkDest = "/posts"
-  cardView = true
-  cardViewScreenWidth = false
-  layoutBackgroundBlur = false
+[dateFormat]
+published = "Jan 02, 2006"
+lastUpdated = "Jan 02, 2006 15:04 MST"
+
+[sidebar]
+emoji = "✊"
+subtitle = "Comunidade Potiguar de Software Livre"
+
+[sidebar.avatar]
+enabled = true
+local = true
+src = "img/potileft-100-black.png"
 
 [article]
-  showDate = true
-  showViews = false
-  showLikes = false
-  showDateOnlyInArticle = false
-  showDateUpdated = false
-  showAuthor = true
-  showHero = false
-  layoutBackgroundBlur = true
-  layoutBackgroundHeaderSpace = true
-  showBreadcrumbs = false
-  showDraftLabel = true
-  showEdit = false
-  editAppendPath = true
-  seriesOpened = false
-  showHeadingAnchors = true
-  showPagination = true
-  invertPagination = false
-  showReadingTime = true
-  showTableOfContents = false
-  showTaxonomies = false
-  showAuthorsBadges = false
-  showWordCount = true
-  showZenMode = false
+headingAnchor = false
+math = false
+readingTime = true
 
-[list]
-  showHero = false
-  layoutBackgroundBlur = true
-  layoutBackgroundHeaderSpace = true
-  showBreadcrumbs = false
-  showSummary = true
-  showViews = false
-  showLikes = false
-  showTableOfContents = false
-  showCards = false
-  orderByWeight = false
-  groupByYear = true
-  cardView = false
-  cardViewScreenWidth = false
-  constrainItemsWidth = false
+[article.license]
+enabled = true
+default = "Licenciado sob CC BY-NC-SA 4.0"
 
-[sitemap]
-  excludedKinds = [ "taxonomy", "term" ]
+## Widgets
+[[widgets.homepage]]
+type = "search"
 
-[taxonomy]
-  showTermCount = true
-  showHero = false
-  showBreadcrumbs = false
-  showViews = false
-  showLikes = false
-  showTableOfContents = false
-  cardView = false
+[[widgets.homepage]]
+type = "archives"
 
-[term]
-  showHero = false
-  showBreadcrumbs = false
-  showViews = false
-  showLikes = false
-  showTableOfContents = true
-  groupByYear = false
-  cardView = false
-  cardViewScreenWidth = false
+[widgets.homepage.params]
+limit = 5
 
-[firebase]
+[[widgets.homepage]]
+type = "categories"
 
-[fathomAnalytics]
+[widgets.homepage.params]
+limit = 10
 
-[umamiAnalytics]
+[[widgets.homepage]]
+type = "tag-cloud"
 
-[selineAnalytics]
+[widgets.homepage.params]
+limit = 10
 
-[buymeacoffee]
+[[widgets.page]]
+type = "toc"
 
-[verification]
+[opengraph.twitter]
+site = ""
+card = "summary_large_image"
+
+[defaultImage.opengraph]
+enabled = false
+local = false
+src = ""
+
+[colorScheme]
+toggle = false
+default = "light"
+
+[imageProcessing.cover]
+enabled = true
+
+[imageProcessing.content]
+enabled = true
