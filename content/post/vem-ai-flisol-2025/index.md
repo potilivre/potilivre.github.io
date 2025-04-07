@@ -1,6 +1,6 @@
 ---
 title: 'Vem ai Flisol 2025'
-date: 2024-03-20T17:19:27-03:00
+date: 2025-03-20T17:19:27-03:00
 showAuthor: false
 image: flisol-2025-banner.jpeg
 categories:
