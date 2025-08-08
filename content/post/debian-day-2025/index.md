@@ -32,22 +32,79 @@ Se você já usa Debian ou quer começar a explorar essa poderosa distribuição
 
 ## 📅 Programação
 
-A programação completa será divulgada em breve, mas já podemos adiantar que teremos:
+<div style="text-align:center">
+    <img src="programacao-debian.jpg">
+    <p>&nbsp;</p>
+</div>
 
-**Manhã:**
+<details>
+<summary> [Abertura] - Conhecendo o projeto Debian
+</summary>
+<ul>
+<li>🧑‍💻 Palestrante: Allythy</li>
+<li>📚 Sobre: Nesta sessão de abertura, vamos apresentar o Debian, um dos sistemas operacionais livres mais respeitados e influentes do mundo.</li>
+</ul>
+</details>
 
-- 🎤 Palestras com especialistas e membros da comunidade sobre Debian, segurança, cultura hacker, DevOps, educação livre e mais.
+<details>
+<summary>[Palestra] Ressuscitando um positivo para fazer um servidor de midia
+</summary>
+<ul>
+<li>🧑‍💻 Palestrante: Jhonata</li>
+<li>📚 Sobre: "Nesta palestra, compartilho minha experiência ao transformar um modesto computador de R$300, adquirido na OLX, em um servidor de mídia funcional usando Debian. Vou abordar os desafios enfrentados, as escolhas técnicas feitas, o uso de ferramentas de código aberto, e como o Debian se mostrou uma base sólida e confiável para esse projeto caseiro — que virou um verdadeiro laboratório de aprendizado. Ideal para quem quer montar seu próprio servidor com poucos recursos e muito Debian no coração".
+</li>
+</ul>
+</details>
 
-**Tarde:**
+<details>
+<summary>[Palestra] Starlingx - Uma plataforma para nuvem privada baseada em Debian
+</summary>
+<ul>
+<li>🧑‍💻 Palestrante: Wallysson</li>
+<li>📚 Sobre: Starlingx é uma plataforma de nuvem privada completa, baseada em Debian, escalável para centenas de máquinas locais e milhares em um ambiente distribuído. Nessa palestra você entenderá como o Starlingx funciona e como as clouds são construídas "por baixo dos panos".
+</li>
+</ul>
+</details>
 
-- 💻 Oficinas práticas para quem quer explorar o sistema na prática.
-- 🧠 Espaços abertos para troca de ideias, mini debates e hacklabs.
-- 🎂 Comemoração do aniversário do projeto com direito a bolo!
+<details>
+<summary>[Palestra] Debian para todos
+</summary>
+<ul>
+<li>🧑‍💻 Palestrante: Matheus Silva</li>
+<li>📚 Sobre: Nesta palestra introdutória, você vai conhecer o que é o Debian, por que ele é uma das distribuições Linux mais influentes do mundo, e como utilizá-lo até mesmo no seu Windows com WSL. Uma jornada do open source ao seu terminal!
+</li>
+</ul>
+</details>
 
-📍 Local: **SEBRAE**\
-📆 Data: **16 de agosto de 2025**  
-⏰ Horário: A partir das 08h  
-🎟️ Inscreva-se: <https://evento.potilivre.org/event/5/debian-day-natal-2025>
+<details>
+<summary>[Palestra] A relação essencial entre Debian e Ubuntu
+</summary>
+<ul>
+<li>🧑‍💻 Palestrante: Mateus Morais</li>
+<li>📚 Sobre: Você já se perguntou por que o Ubuntu e o Debian compartilham tantas semelhanças? Nesta apresentação, vamos além da superfície para explorar a fundação do Ubuntu. Abordaremos como o Ubuntu se baseia no trabalho do Debian, como os pacotes são adaptados e as razões por trás das diferenças que encontramos. O objetivo é desmistificar essa relação e oferecer uma compreensão aprofundada de como ela funciona na prática
+</li>
+</ul>
+</details>
+
+<details>
+<summary>[Palestra]  Segurança no Debian: Como as Falhas São Corrigidas na Prática
+</summary>
+<ul>
+<li>🧑‍💻 Palestrantes: Guisso e Moisés</li>
+<li>📚 Sobre: Você já se perguntou como o Debian lida com vulnerabilidades de segurança? Nesta palestra, vamos explorar os bastidores da correção de CVEs no Debian: desde a descoberta e análise da falha até a criação do patch e a entrega da atualização para o usuário. Vamos falar sobre backports, embargos, suporte de 10 anos, e como você pode investigar vulnerabilidades por conta própria usando o Security Tracker.
+</li>
+</ul>
+</details>
+
+<details>
+<summary>[Minicurso] Ressuscitando um positivo para fazer um servidor de midia
+</summary>
+<ul>
+<li>🧑‍💻 Palestrante: Allythy</li>
+<li>📚 Sobre: Neste minicurso introdutório, vamos mostrar como funciona o processo de tradução no Debian, o papel time de tradução, as ferramentas utilizadas e como você pode começar a contribuir de forma prática. Ideal para quem quer fazer parte da comunidade e tornar o software livre mais acessível para todos.
+</li>
+</ul>
+</details>
 
 ## 🤝 Apoio e parceria
 
@@ -59,5 +116,6 @@ O evento conta com o apoio da comunidade **PotiLivre** e do **SEBRAE**. Se sua e
 
 O Debian Day é feito por e para a comunidade. Sua presença fortalece o ecossistema livre e ajuda a construir um ambiente mais colaborativo, ético e acessível na tecnologia.
 
-🎂🐁 Nos vemos dia **16 de agosto de 2025** no **Debian Day Natal**!  
+🎟️ Inscreva-se: <https://evento.potilivre.org/event/5/debian-day-natal-2025>
 
+🎂🐁 Nos vemos dia **16 de agosto de 2025** no **Debian Day Natal**!  
