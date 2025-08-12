@@ -15,6 +15,8 @@ tags:
 
 O evento acontecerá no **SEBRAE**, e contará com **palestras e oficinas** para todas as pessoas interessadas em tecnologia, liberdade e comunidade.
 
+**Lembrete importante! Para participar do  minicurso, é preciso levar o seu notebook ou fazer par com alguém que esteja com um notebook.**
+
 ---
 
 ## 🌀 O que é o Debian Day?
@@ -97,7 +99,7 @@ Se você já usa Debian ou quer começar a explorar essa poderosa distribuição
 </details>
 
 <details>
-<summary>[Minicurso] Ressuscitando um positivo para fazer um servidor de midia
+<summary>[Minicurso] Introdução a tradução no Debian
 </summary>
 <ul>
 <li>🧑‍💻 Palestrante: Allythy</li>
@@ -106,9 +108,19 @@ Se você já usa Debian ou quer começar a explorar essa poderosa distribuição
 </ul>
 </details>
 
+---
+
+## 🚪 Entrada para o evento no SEBRAE
+
+Segue abaixo o vídeo com orientações para chegar até a entrada do evento no SEBRAE e acessar o local das atividades.
+
+https://drive.proton.me/urls/DHR2KKQGSM#0l5elxn1r6Hm
+
+---
+
 ## 🤝 Apoio e parceria
 
-O evento conta com o apoio da comunidade **PotiLivre** e do **SEBRAE**. Se sua empresa ou organização quer apoiar o Debian Day Natal 2025, entre em contato!
+O evento conta com o apoio da comunidade **Debian**, **PotiLivre** e do **SEBRAE**. Se sua empresa ou organização quer apoiar o Debian Day Natal 2025, entre em contato!
 
 ---
 
@@ -118,4 +130,4 @@ O Debian Day é feito por e para a comunidade. Sua presença fortalece o ecossis
 
 🎟️ Inscreva-se: <https://evento.potilivre.org/event/5/debian-day-natal-2025>
 
-🎂🐁 Nos vemos dia **16 de agosto de 2025** no **Debian Day Natal**!  
+🎂🐁 Nos vemos dia **16 de agosto de 2025** no **Debian Day Natal**! 
