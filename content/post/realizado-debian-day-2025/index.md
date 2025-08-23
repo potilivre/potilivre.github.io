@@ -1,5 +1,6 @@
 ---
 title: "Realizado Debian Day 2025 - Edição Natal RN"
+slug: debian-edicao-natal
 description: 
 date: 2025-08-20T23:50:23-03:00
 showAuthor: false
@@ -12,7 +13,7 @@ tags:
     - comunidade
 ---
 
-A comemoração do aniversário do Debian em Natal reuniu reuniu pessoas no **[SEBRAE-RN]()** interessadas em aprender e discutir software livre com direito a bolo, palestras e minicurso. Além do código, um sistema operacional é feito por e para pessoas, cultivar a comunidade dessa distro no Rio Grande do Norte é essencial para expandir e fomentar a base de usuários e colaboradores dessa ferramenta poderosa.
+A comemoração do aniversário do Debian em Natal reuniu pessoas no **[SEBRAE-RN]()** interessadas em aprender e discutir sobre Software Livre com direito a bolo, palestras e minicurso. Além do código, um sistema operacional é feito por e para pessoas, cultivar a comunidade dessa distro no Rio Grande do Norte é essencial para expandir e fomentar a base de usuários e colaboradores do projeto Debian.
 
 No total, houve **299 inscritos**, dos quais **63 compareceram** no sábado, 16 de agosto, e **25 participantes** no minicurso de tradução do Debian, ministrado à tarde.
 
@@ -32,6 +33,12 @@ Se quiser rever alguma informação ou precisar consultar alguma das apresentaç
     target="_blank" 
     rel="noopener noreferrer">
     Ressuscitando um positivo para fazer um servidor de mídia - Jhonata Medeiros
+</a>
+
+<a href="/slides-debian-day-2025/Starlingx_Debian_Day_2025.pdf" 
+    target="_blank" 
+    rel="noopener noreferrer">
+    Starlingx - Uma plataforma para nuvem privada baseada em Debian - Wallysson Silva
 </a>
 
 
