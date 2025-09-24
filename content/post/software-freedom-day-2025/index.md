@@ -1,28 +1,28 @@
 ---
-title: "Software Freedom Day 2025"
-slug: "software-freedom-day-2025"
+title: "O Dia do Software Livre 2025"
+slug: "dia-do-software-livre-2025"
 description: 
 showAuthor: false
 categories:
-    - Software freedom day
+    - O Dia do Software Livre
 date: 2025-09-23T20:53:44-03:00
 image: soft-freedom-day.png
 tags:
-    - software-freedom-day
+    - o-dia-do-software-livre
     - eventos
     - software-livre
     - comunidade
 ---
 
-🎉 **O Software Freedom Day (SFD) Natal 2025 já tem data marcada!**
+🎉 **O Dia do Software Livre (SFD) Natal 2025 já tem data marcada!**
 
 No dia **27 de setembro**, vamos celebrar juntos a liberdade do conhecimento e do uso da tecnologia, promovendo o Software Livre como ferramenta de transformação social e inovação.
 
 O evento acontecerá no **SEBRAE/RN**, reunindo estudantes, profissionais, comunidades e entusiastas em um dia de palestras e muita colaboração.
 
-## 📋 O que é o Software Freedom Day?
+## 📋 O que é o Dia do Software Livre?
 
-O Software Freedom Day é uma celebração global, realizada simultaneamente em diversas cidades do mundo, que busca:
+O Dia do Software Livre é uma celebração global, realizada simultaneamente em diversas cidades do mundo, que busca:
 
 - **Promover** o uso e a filosofia do Software Livre  
 - **Divulgar** seus benefícios para a sociedade  
@@ -39,7 +39,7 @@ Segue abaixo o vídeo com orientações para chegar até a entrada do evento no 
 
 ## 🤝 Apoio e parceria
 
-O Software Freedom Day Natal 2025 conta com o apoio da **comunidade PotiLivre**, do **SEBRAE/RN** e de outras iniciativas locais que acreditam no poder do conhecimento livre.  
+O Dia do Software Livre Natal 2025 conta com a organização da **comunidade PotiLivre**, do **SEBRAE/RN** e de outras iniciativas locais que acreditam no poder do conhecimento livre.  
 
 *Se sua empresa ou organização deseja apoiar, entre em contato com a organização do evento!*
 
@@ -53,4 +53,4 @@ O SFD é feito **pela comunidade e para a comunidade**. Sua presença fortalece 
 
 ---
 
-**✊🐧 Nos vemos no dia 27 de Setembro de 2025 no Software Freedom Day Natal!**
+**✊🐧 Nos vemos no dia 27 de Setembro de 2025 no Dia do Software Livre Natal!**
